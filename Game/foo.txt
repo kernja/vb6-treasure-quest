@@ -1,0 +1,1536 @@
+//------------------------------------------------------------------
+//TREASURE QUEST MAP FILE
+//    ...do not edit manually. Or something dramatic will happen. :)
+//------------------------------------------------------------------
+//This is the map name.
+//---------------------
+
+
+//---------------------------
+//This is the map background.
+//0 = 'Lake Overview'
+//---------------------------
+0
+//---------------------------
+//This is the map music
+//0 = 'Azure Lake'
+//---------------------------
+0
+
+//-----------
+//MAP OBJECTS
+//-----------
+//bgTwo Items
+//-----------
+//Count:
+6
+
+//------
+//item #0
+//------
+//position:
+384,64
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #1
+//------
+//position:
+416,64
+//scale:
+1,1
+//item type:
+1
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #2
+//------
+//position:
+480,64
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #3
+//------
+//position:
+576,384
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #4
+//------
+//position:
+576,352
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #5
+//------
+//position:
+576,320
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #6
+//------
+//position:
+576,288
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//-----------
+//bgOne Items
+//-----------
+//Count:
+3
+
+//------
+//item #7
+//------
+//position:
+896,32
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #8
+//------
+//position:
+896,64
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #9
+//------
+//position:
+864,256
+//scale:
+2,2
+//item type:
+5
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #10
+//------
+//position:
+800,256
+//scale:
+2,2
+//item type:
+4
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//-----------
+//bgInteractive Items
+//-----------
+//Count:
+0
+
+//------
+//item #11
+//------
+//position:
+0,0
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//-----------
+//bgCharacterEnemy Items
+//-----------
+//Count:
+2
+
+//------
+//item #12
+//------
+//position:
+544,64
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+0
+
+//------
+//item #13
+//------
+//position:
+704,416
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+1
+
+//------
+//item #14
+//------
+//position:
+640,384
+//scale:
+1,1
+//item type:
+1
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+2
+
+//-----------
+//Playfield Items
+//-----------
+//Count:
+65
+
+//------
+//item #15
+//------
+//position:
+0,32
+//scale:
+4,4
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #16
+//------
+//position:
+128,32
+//scale:
+4,4
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #17
+//------
+//position:
+256,32
+//scale:
+4,4
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #18
+//------
+//position:
+384,96
+//scale:
+2,2
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #19
+//------
+//position:
+448,96
+//scale:
+2,2
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #20
+//------
+//position:
+448,32
+//scale:
+1,1
+//item type:
+5
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #21
+//------
+//position:
+480,32
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #22
+//------
+//position:
+512,32
+//scale:
+1,1
+//item type:
+7
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #23
+//------
+//position:
+512,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #24
+//------
+//position:
+544,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #25
+//------
+//position:
+576,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #26
+//------
+//position:
+608,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #27
+//------
+//position:
+640,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #28
+//------
+//position:
+672,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #29
+//------
+//position:
+704,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #30
+//------
+//position:
+736,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #31
+//------
+//position:
+768,96
+//scale:
+1,0.5
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #32
+//------
+//position:
+800,96
+//scale:
+2,2
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #33
+//------
+//position:
+864,96
+//scale:
+2,2
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #34
+//------
+//position:
+960,96
+//scale:
+2,2
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #35
+//------
+//position:
+928,0
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #36
+//------
+//position:
+960,0
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #37
+//------
+//position:
+896,0
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #38
+//------
+//position:
+864,0
+//scale:
+1,1
+//item type:
+5
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #39
+//------
+//position:
+992,0
+//scale:
+1,1
+//item type:
+7
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #40
+//------
+//position:
+992,288
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #41
+//------
+//position:
+992,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #42
+//------
+//position:
+960,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #43
+//------
+//position:
+800,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #44
+//------
+//position:
+832,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #45
+//------
+//position:
+928,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #46
+//------
+//position:
+896,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #47
+//------
+//position:
+864,320
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #48
+//------
+//position:
+800,288
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #49
+//------
+//position:
+672,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #50
+//------
+//position:
+672,448
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #51
+//------
+//position:
+704,448
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #52
+//------
+//position:
+736,448
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #53
+//------
+//position:
+768,448
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #54
+//------
+//position:
+800,448
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #55
+//------
+//position:
+800,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #56
+//------
+//position:
+672,384
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #57
+//------
+//position:
+640,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #58
+//------
+//position:
+608,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #59
+//------
+//position:
+576,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #60
+//------
+//position:
+544,384
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #61
+//------
+//position:
+544,416
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #62
+//------
+//position:
+864,448
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #63
+//------
+//position:
+960,480
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #64
+//------
+//position:
+896,576
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #65
+//------
+//position:
+928,512
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #66
+//------
+//position:
+800,576
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #67
+//------
+//position:
+704,608
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #68
+//------
+//position:
+608,640
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #69
+//------
+//position:
+512,672
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #70
+//------
+//position:
+384,704
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #71
+//------
+//position:
+608,256
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #72
+//------
+//position:
+640,256
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #73
+//------
+//position:
+672,256
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #74
+//------
+//position:
+576,256
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #75
+//------
+//position:
+704,256
+//scale:
+1,1
+//item type:
+7
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #76
+//------
+//position:
+544,256
+//scale:
+1,1
+//item type:
+5
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #77
+//------
+//position:
+736,352
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #89
+//------
+//position:
+928,192
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #90
+//------
+//position:
+896,224
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #91
+//------
+//position:
+928,224
+//scale:
+1,1
+//item type:
+0
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//-----------
+//fgOne Items
+//-----------
+//Count:
+7
+
+//------
+//item #78
+//------
+//position:
+448,64
+//scale:
+1,1
+//item type:
+4
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #79
+//------
+//position:
+480,64
+//scale:
+1,1
+//item type:
+5
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #80
+//------
+//position:
+960,32
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #81
+//------
+//position:
+960,64
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #82
+//------
+//position:
+928,288
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #83
+//------
+//position:
+928,256
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #84
+//------
+//position:
+928,224
+//scale:
+1,1
+//item type:
+6
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #85
+//------
+//position:
+928,192
+//scale:
+1,1
+//item type:
+7
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//-----------
+//fgTwo Items
+//-----------
+//Count:
+2
+
+//------
+//item #86
+//------
+//position:
+672,352
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #87
+//------
+//position:
+672,320
+//scale:
+1,1
+//item type:
+3
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+//------
+//item #88
+//------
+//position:
+672,288
+//scale:
+1,1
+//item type:
+2
+//interactive flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//solid flags:
+False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+//enemy flag:
+-1
+
+
