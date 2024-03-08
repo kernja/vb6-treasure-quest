@@ -57,14 +57,11 @@ Sub Main()
     
     Set objFSO = New FileSystemObject
     frmEditor.Show
-    'Dim foo As classObject
-   's foo = New classObject
     renderMe
 End Sub
 
 Sub quitProgram()
        
-    'End
        Set objFSO = Nothing
        Set map = Nothing
        End
@@ -91,7 +88,7 @@ Sub newMap()
     progRender = True
 End Sub
 
-Sub saveMap(Optional path As String = "foo.txt")
+Sub saveMap(Optional path As String = "map.txt")
 
     Dim i As Single, j As Single, k As Single
     Dim count As Single
@@ -234,7 +231,7 @@ Sub saveMap(Optional path As String = "foo.txt")
     ts.WriteLine ("")
     ts.Close
 End Sub
-Sub loadMap(Optional path As String = "foo.txt")
+Sub loadMap(Optional path As String = "map.txt")
 
     Dim i As Single, j As Single, k As Single, l As Single
     Dim count As Single

@@ -163,7 +163,7 @@ On Error Resume Next
 
     quitProgram
 End Sub
-Sub loadMap(Optional path As String = "foo.txt", Optional mapIndex As Single = 0)
+Sub loadMap(Optional path As String = "map.txt", Optional mapIndex As Single = 0)
     Dim i As Single, j As Single, k As Single, l As Single
     Dim count As Single
     Dim tempItem As classObject
