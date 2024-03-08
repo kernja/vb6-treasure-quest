@@ -13,10 +13,13 @@ Of the three versions, this game would be considered the most technically comple
 
 There are three projects in this repository:
 * *Game*, which loads a map for playing
+    * Arrow keys to move
+    * `Z` to jump
+    * Click playfield to quit
 * *Editor*, which allows users to load and edit a map
 * *Config*, a non-functional prototype for editing game configuration files
 
-It has been uploaded and archived to GitHub for posterity. The [provided license](SOURCECODE-LICENSE) applies only to the project's sourcecode *and* not any included media assets.
+It has been uploaded and archived to GitHub for posterity. The [provided license](SOURCECODE-LICENSE) applies only to the project's sourcecode *and not* any included media assets.
 
 ![Configuration window preview](./previewConfig.jpg)
 ![Editor window preview](./previewEditor.jpg)
