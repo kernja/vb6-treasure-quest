@@ -1,8 +1,6 @@
 # Treasure Quest, v2
 
-This project is my **third** attempt at making a two-dimensional [Jetpack](https://en.wikipedia.org/wiki/Jetpack_(video_game)) and/or [Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) clone within Visual Basic. It was written in the second half of 2007.
-
-Unfortunately, my *very first* attempt at developing such a game from 1999/2000 is long gone, whereas the second iteration (and the first to survive to present day) from around 2005/6 will be uploaded to GitHub after some reverse engineering.
+This project is my **third** attempt at making a two-dimensional [Jetpack](https://en.wikipedia.org/wiki/Jetpack_(video_game)) and/or [Lode Runner](https://en.wikipedia.org/wiki/Lode_Runner) clone within Visual Basic. It was written in the second half of 2007. Unfortunately, my *very first* attempt at developing such a game from 1999/2000 is long gone, whereas the second iteration [can be viewed here](https://github.com/kernja/vb6-treasure-quest-v1).
 
 Regardless, these three versions all share similarities:
 * Written in Visual Basic 6 (or earlier)
